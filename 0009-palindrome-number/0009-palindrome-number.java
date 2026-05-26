@@ -3,7 +3,6 @@ class Solution {
         if(x<0){
             return false;
         }
-        int left = 0;
         int temp = x;
         int res = 0;
         while(temp != 0){
