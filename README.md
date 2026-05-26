@@ -35,6 +35,7 @@ Java DSA and LeetCode solutions with optimized approaches and clean code.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pkroy7294/java-dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Pkroy7294/java-dsa/tree/main/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
