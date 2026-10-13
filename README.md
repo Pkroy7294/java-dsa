@@ -7,6 +7,7 @@ Java DSA and LeetCode solutions with optimized approaches and clean code.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pkroy7294/java-dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Pkroy7294/java-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pkroy7294/java-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pkroy7294/java-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
@@ -29,6 +30,7 @@ Java DSA and LeetCode solutions with optimized approaches and clean code.
 | [0001-two-sum](https://github.com/Pkroy7294/java-dsa/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pkroy7294/java-dsa/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Pkroy7294/java-dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Pkroy7294/java-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pkroy7294/java-dsa/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pkroy7294/java-dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Pkroy7294/java-dsa/tree/main/0035-search-insert-position/) | Easy |
@@ -75,5 +77,6 @@ Java DSA and LeetCode solutions with optimized approaches and clean code.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pkroy7294/java-dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Pkroy7294/java-dsa/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
